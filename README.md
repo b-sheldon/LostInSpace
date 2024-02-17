@@ -2,6 +2,8 @@
 ## An environmental puzzle game set on an abandoned spaceship, made in Unity.
 ## Ben Sheldon
 
+### Unity Version 2022.3.11f1
+
 “Lost in Space” is a puzzle game where the player finds themself alone in an empty, eerie spaceship. As they explore their environment, they find that they can interact with the pedestals to move their environment. However, they must also collect the orbs in order to progress. As they progress through, the puzzles get progressively harder, with the player having to use their creativity to solve them. When the player completes the final puzzle, they come across the main controls for the space station and DANGER warnings. Upon interacting with the control station, the space station explodes, ending the game.
 
 The main Unity project is contained in the PuzzleGame directory, and files showcasing the game are located in the Showcase directory.
